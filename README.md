@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **mr.kailashsahu08@gmail.com**
+- 📫 Leet code - **[mr.kailashsahu08@gmail.com](https://leetcode.com/kailashsahu07/)**
 
 <h3 align="left">Connect with me:</h3>
 
