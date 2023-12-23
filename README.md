@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kailashsahu08&label=Profile%20views&color=0e75b6&style=flat" alt="kailashsahu08" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me **mr.kailashsahu08@gmail.com**
 - 📫 Leet code - **[[https://leetcode.com/kailashsahu07](https://leetcode.com/kailashsahu07/)]**
