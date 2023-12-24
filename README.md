@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me **mr.kailashsahu08@gmail.com**
-- 📫 Leet code - **[[https://leetcode.com/kailashsahu07](https://leetcode.com/kailashsahu07/)]**
-
+- 📫 Leet code - **[https://leetcode.com/kailashsahu07](https://leetcode.com/kailashsahu07/)**
+- 📫 My Portfolio - **[portfolio](https://kailashsahu08.github.io/MyPortfolio/)**
 <h3 align="left">Connect with me:</h3>
 
 
